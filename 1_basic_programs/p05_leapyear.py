@@ -1,5 +1,5 @@
-a=2024
-if a%4==0 :
+a=1990
+if (a%400==0) or (a%4==0 and a%100!=0):
     print(a,"is a leap year")
 else:
     print(a,"is not a leap year")
