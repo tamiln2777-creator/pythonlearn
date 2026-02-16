@@ -1,4 +1,4 @@
-# for single number
+# for single number....
 a=input("enter a string:")
 sum=0
 for i in a:
